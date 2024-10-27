@@ -1,6 +1,6 @@
 # Storing and Retrieving Data Project
 
-## Objetive
+## Project Overview
   Maria Maria is an online shop that sells handmade clothes and accessories. Inspired by a family tradition of crochet, its business model also embraces sustainability as a main goal, using eco-friendly materials and reusing leftovers from clothing pieces that would otherwise be sent away. The product naming concept is simple: each product name starts with “Maria”, honoring one of the most common Portuguese first names, and is completed by a second name (for instance, “Maria do Carmo” or “Maria Teresa”).
   
 ## Operating Assumptions:
