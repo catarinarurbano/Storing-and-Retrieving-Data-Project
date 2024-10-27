@@ -13,5 +13,5 @@
  - Discounts may be applied to specific products and may either come from sales promotions or from clients’ discount coupons;
   - The payment method is chosen by the client.
 
-### Entity Relationship Diagram:
+### Entity Relationship Diagram
 ![Captura de ecrã 2021-02-18 204913](https://user-images.githubusercontent.com/72451435/108420201-647ce900-722b-11eb-965a-c87bf25b9d66.png)
